@@ -1,16 +1,27 @@
 # CS-330-11342-M01-Comp-Graphic-and-Visualization-2024-C-3-May---Jun-
 
 How do I approach designing software?
+
 What new design skills has your work on the project helped you to craft?
+
 What design process did you follow for your project work?
+
 How could tactics from your design approach be applied in future work?
+
 How do I approach developing programs?
+
 What new development strategies did you use while working on your 3D scene?
+
 How did iteration factor into your development?
+
 How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+
 How can computer science help me in reaching my goals?
+
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+
 
 
 In approaching software design, I employ a methodical and structured problem-solving process. My initial focus is on comprehensively understanding the project's requirements and objectives, including identifying key functionalities and user interactions. From there, I develop a high-level architectural blueprint, outlining core components and their interactions. This is followed by a detailed design phase, where I create comprehensive diagrams and specifications for each module. For the 3D scene project, this involved defining the various objects - such as the beer bottle, glass, lemons, and knife - and planning their rendering and interaction within the scene.
