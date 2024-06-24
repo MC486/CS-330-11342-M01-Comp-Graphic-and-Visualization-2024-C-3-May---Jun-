@@ -22,7 +22,7 @@ How do computational graphics and visualizations give you new knowledge and skil
 
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
 
-
+----------------------------------------------------------------------------------------------------------
 
 In approaching software design, I employ a methodical and structured problem-solving process. My initial focus is on comprehensively understanding the project's requirements and objectives, including identifying key functionalities and user interactions. From there, I develop a high-level architectural blueprint, outlining core components and their interactions. This is followed by a detailed design phase, where I create comprehensive diagrams and specifications for each module. For the 3D scene project, this involved defining the various objects - such as the beer bottle, glass, lemons, and knife - and planning their rendering and interaction within the scene.
 
